@@ -1,1 +1,1 @@
-THis is pet project as a test task for interview
+This is pet project as a test task for interview
