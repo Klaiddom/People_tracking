@@ -33,7 +33,7 @@ def draw(frame: np.ndarray, out: List[np.ndarray]) -> None:
 
 if __name__ == '__main__':
     is_use_hashed_data = True
-    video_streams = cv2.VideoCapture('C:\\Users\\User\\Downloads\\pedastrians.mp4')
+    video_streams = cv2.VideoCapture('pedastrians.mp4')
     tracker = Tracker()
     color = (255, 0, 0)
     radius = 3
