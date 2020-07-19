@@ -1,1 +1,1 @@
-This is pet project as a test task for interview
+Small pet project about pose estimation and tracking.
